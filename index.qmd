@@ -1,14 +1,15 @@
 ---
 title: "Creativity Presentation"
 from: markdown+emoji
+author: "Thura Hlaing [104348759]"
 format:
   revealjs:
     slide-number: true
     #logo: images/swinburne.png
-    footer: Thura Hlaing [104348759]
+    footer: Use arrow keys (← →) on your keyboard to navigate.
     # header: Thura Hlaing [104348759]
     header-logo: images/swinburne.png
-    theme: [beige , custom.scss]    
+    theme: [black , custom.scss]    
 
 filters:
   - reveal-header
@@ -20,8 +21,30 @@ filters:
 
 ## ➋ CREATIVITY POEM 
 
-- Turn off alarm
-- Get out of bed
+:::: {.columns }
+
+::: {.column width="40%"}
+![](images/g2.png)
+:::
+
+::: {.point-seven-em .column width="60%"}
+| From the shore of comfort, let creativity set asail,
+| Towards the distant shore, where innovations unveil.
+| Chart the surroundings, oh wandering ship,
+| Without the guiding map, you'll stray and slip.
+|
+| Stay true to your goal, oh steadfast ship,
+| Else, lost you'll be, in fate's ruthless grip.
+| Fear not to err, oh brave bold ship,
+| For without courage, your’ll remains adrift. 
+|
+| Steer by your moral compass, oh wise ship,
+| Without ethics, you'll veer off and sink.
+| With these in mind, let creativity set asail,
+| In the end, triumph shall be your tale.
+:::
+
+::::
 
 ## ➌ CREATIVITY & PAST EXAMPLES
 
@@ -30,7 +53,7 @@ filters:
 
 ## ➍ Creativity & EDUCATION
 
-## ➎ CREATIVITY AND YOUR SPACE TIME OASIS
+## ➎ CREATIVITY & SPACE TIME OASIS
 
 ## ➏ CONNECTING THE DOTS
 
@@ -39,5 +62,42 @@ filters:
 ## ➑ THINKING STYLES
 
 ## ➒ SELF-REFLECTION WORKSHEET
+
+::: {.point-five-em}
+| Statement | Rating | Comment | 
+|:-------|:-----|---------|
+|I am a creative person | ☆☆☆☆☆☆☆☆☆☆ |
+|I have access to a ‘space-time oasis’| ☆☆☆☆☆☆☆☆☆☆ |
+|I regularly spend time in my ‘space-time oasis’| ☆☆☆☆☆☆☆☆☆☆ |
+|Most people would think of me as being open-minded| ☆☆☆☆☆☆☆☆☆☆ |
+|I know how to ‘play’| ☆☆☆☆☆☆☆☆☆☆ |
+|I am a humorous person| ☆☆☆☆☆☆☆☆☆☆ |
+|I often operate in Open Mode| ☆☆☆☆☆☆☆☆☆☆|
+|I am experienced in the 4-step design thinking process| ☆☆☆☆☆☆☆☆☆☆|
+|I know my dominant thinking style| ☆☆☆☆☆☆☆☆☆☆|
+|I have no problem in changing perspectives when called for| ☆☆☆☆☆☆☆☆☆☆|
+
+: {tbl-colwidths="[50,25,25]"}
+::: 
+
+## ➒ SELF-REFLECTION WORKSHEET
+
+::: {.point-five-em}
+| Statement | Rating | Comment | 
+|:-------|:-----|---------|
+| I have a good imagination | ☆☆☆☆☆☆☆☆☆☆ |
+|I am good at critical thinking| ☆☆☆☆☆☆☆☆☆☆ |
+| I am highly motivated at what I do| ☆☆☆☆☆☆☆☆☆☆ |
+|I have a passion for what I do| ☆☆☆☆☆☆☆☆☆☆ |
+| I often use tools to help me solve problems| ☆☆☆☆☆☆☆☆☆☆ |
+|I have a good set of creativity tools in my toolbox| ☆☆☆☆☆☆☆☆☆☆ |
+|I don’t have major creativity blocks/barriers| ☆☆☆☆☆☆☆☆☆☆|
+|I am good at lateral thinking| ☆☆☆☆☆☆☆☆☆☆|
+|I have ‘creativity playmates’ whom I can trust| ☆☆☆☆☆☆☆☆☆☆|
+|I have many good ideas but I never implement them| ☆☆☆☆☆☆☆☆☆☆|
+
+: {tbl-colwidths="[50,25,25]"}
+::: 
+
 
 ## ➓ NEW INSIGHTS
