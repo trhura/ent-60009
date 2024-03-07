@@ -1,0 +1,43 @@
+---
+title: "Creativity Presentation"
+from: markdown+emoji
+format:
+  revealjs:
+    slide-number: true
+    #logo: images/swinburne.png
+    footer: Thura Hlaing [104348759]
+    # header: Thura Hlaing [104348759]
+    header-logo: images/swinburne.png
+    theme: [beige , custom.scss]    
+
+filters:
+  - reveal-header
+---
+
+## ➊ AUTOBIOGRAPHY
+
+
+
+## ➋ CREATIVITY POEM 
+
+- Turn off alarm
+- Get out of bed
+
+## ➌ CREATIVITY & PAST EXAMPLES
+
+- Get in bed
+- Count sheep
+
+## ➍ Creativity & EDUCATION
+
+## ➎ CREATIVITY AND YOUR SPACE TIME OASIS
+
+## ➏ CONNECTING THE DOTS
+
+## ➐ CREATIVITY AND RISK
+
+## ➑ THINKING STYLES
+
+## ➒ SELF-REFLECTION WORKSHEET
+
+## ➓ NEW INSIGHTS
