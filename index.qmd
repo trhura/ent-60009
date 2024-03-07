@@ -1,5 +1,7 @@
 ---
 title: "Creativity Presentation"
+title-block-banner: true
+
 from: markdown+emoji
 author: "Thura Hlaing [104348759]"
 format:
@@ -9,7 +11,7 @@ format:
     footer: Use arrow keys (← →) on your keyboard to navigate.
     # header: Thura Hlaing [104348759]
     header-logo: images/swinburne.png
-    theme: [black , custom.scss]    
+    theme: [custom.scss,black]   
 
 filters:
   - reveal-header
@@ -18,6 +20,8 @@ filters:
 ## ➊ AUTOBIOGRAPHY
 
 
+::: footer
+:::
 
 ## ➋ CREATIVITY POEM 
 
@@ -43,7 +47,8 @@ filters:
 | With these in mind, let creativity set asail,
 | In the end, triumph shall be your tale.
 :::
-
+::: footer
+:::
 ::::
 
 ## ➌ CREATIVITY & PAST EXAMPLES
@@ -51,53 +56,227 @@ filters:
 - Get in bed
 - Count sheep
 
-## ➍ Creativity & EDUCATION
+::: footer
+:::
+
+## ➍ CREATIVITY & EDUCATION
+
+#### Creativity is "the process of having original ideas that have value".
+
+:::: {.columns }
+
+::: {.column width="25%"}
+![](images/boy.png){height=420px}
+:::
+::: {.column width="75%" }
+1. <b>Creativity is a process, not an event</b>.
+<small>People often mistake "aha" moments as creativity, but it's an iterative process involving trial-and-error. It encompasses brainstorming, hypothesizing, and refining ideas until the desired outcome is achieved.</small>
+<br/>
+
+2. <b>Creativity can be taught. </b>
+<small>While directly instructing creativity isn't possible, individuals' creative potential can be nurtured through opportunities, enablement, encouragement, and inspiration.</small>
+<br/>
+
+3. <b>Creativity can be assessed.</b>
+<small> The claim that creativity can't be assessed stems from a narrow definition of creativity. Using Sir Ken Robinson's definition, creativity can be assessed based on originality and value within a specific field.</small>
+:::
+
+::: footer
+:::
+::::
+
+## ➍ CREATIVITY & EDUCATION 
+
+
+
+:::: {.columns }
+
+::: {.column width="25%"}
+![](images/girl.png){height=400px}
+::: 
+
+::: {.column width="75%" .point-seven-em}
+
+* Creativity is a learnable skill deeply resonates with my personal experience. Raised in a structured asian culture and having a background in analytical engineering, I initially struggled with creative problem-solving at work & study.
+<br/>
+
+* However, over time, actively seeking out tools and techniques to enhance creativity, coupled with exposure to nurturing environments, have demonstrably improved my ability to generate new ideas.
+
+>| Fostering creativity through the right conditions and practices can unlock potential for any person.
+:::
+::::
+
+::: footer
+:::
+
 
 ## ➎ CREATIVITY & SPACE TIME OASIS
 
-## ➏ CONNECTING THE DOTS
+Creativity is not a talent, but rather "a way of operating". 
 
-## ➐ CREATIVITY AND RISK
+:::: {.columns }
 
-## ➑ THINKING STYLES
+::: {.column width="50%" .point-nine-em}
+
+* Open mode is a more relaxed and expansive mode. We are more contemplative and curious in this mode. 
+* It is the mode that allows creativity to flourish.
+::: 
+
+::: {.column width="50%" .point-nine-em}
+* Closed mode is the mode we are in most of the time. It is an active and purposeful mode where we are focused on getting things done.
+* It can be stressful and anxious and there is not much room for humor or play.
+
+:::
+
+::::
+
+::: footer
+:::
+
+
+## ➎ CREATIVITY & SPACE TIME OASIS
+
+
+:::: {.columns }
+
+::: {.column width="50%" .point-eight-em}
+
+* Personally, taking a stroll in a public space is the perfect way to trigger open mode. 
+<br/>
+* While many prefer absolute quiet and stillness, I need stimulating visual and audio input — not enough to disrupt, but enough to spark new connections.
+<br/>
+* Maybe, it's because, when I'm seated at my desk in my private room, I'm conditioned to operate in closed mode, prioritizing productivity and task completion.
+
+::: 
+
+::: {.column width="50%" .point-eight-em}
+
+* One difficulty is finding a balanced physical surroundings, stimulating enough to encourage creativity, yet not so disruptive as to hinder focus. 
+<br/>
+* Another significant obstacle is my tendency to become easily content. This often leads me to stick to the initial solution without fully exploring alternatives, thereby hindering the emergence of more creative solutions.
+:::
+::::
+
+::: footer
+:::
+
+## ➏ CONNECTING THE DOTS {.smaller}
+
+As a business student who recently took up cooking to save money, I found interesting parallels between cooking and starting a business.
+
+:::: {.columns }
+
+::: {.column width="50%" .point-nine-em}
+
+* Both processes require proper preparation - gathering all the necessary ingredients for cooking, just like assembling the right team, funding, and resources for a startup. 
+
+* Maintaining balance is key in both cases. Cooking needs the right measurements, while a business must balance the interests of different stakeholders — customers, employees and shareholders. Any imbalance can lead to unfavorable outcomes.
+::: 
+
+::: {.column width="50%" .point-nine-em}
+* Timing is crucial —  knowing when to add ingredients while cooking mirrors the timing of product launches, scaling efforts, and fundraising rounds in a business. 
+
+* Lastly, although one may follow a specific recipe or business framework, adjustments are often necessary to adapt to the available ingredients or guest preferences in cooking, much like entrepreneurs must adapt to evolving market conditions and competitive landscapes in business.
+
+:::
+
+::::
+::: footer
+:::
+
+
+## ➏ CONNECTING THE DOTS 
+
+Reflecting on this thought experiment:
+
+:::: {.columns }
+::: {.column width="75%" }
+* To form such connections, first, you need to have the dots. That is to say, one needs to have a diverse array of experiences or cross-disciplinary knowledge to draw ideas or insights. 
+
+* Secondly, you need the creative capacity to connect those dots — by stepping back and thinking broadly rather than narrowly focusing on immediate tasks at hand.
+:::
+
+::: {.column width="25%" }
+![](images/handshake.png){height=400px}
+:::
+::::
+
+::: footer
+:::
+
+## ➐ CREATIVITY AND RISK {.smaller}
+
+::: {}
+* Creative pursuits inherently carry an element of risk. Creative individuals can effectively mitigate risks by starting small and working iteratively, which enables continuous feedback and course correction, ultimately increasing the chances of achieving the desired outcome.
+
+* The risky nature of creativity should not deter individuals, as it can lead to groundbreaking results in their lives. As Robert Frost eloquently expressed in his poem "The Road Not Taken":
+
+:::
+
+::: {}
+>| I took the one less traveled by,
+>| And that has made all the difference.
+:::
+
+::: footer
+:::
+
+## ➑ THINKING STYLES {.point-nine-em}
+
+
+
+Based on assessments and personal reflection, I've discovered that my thinking style is dominantly analytical and methodical reasoning, likely influenced by my engineering background.  Structured problem-solving and systematic analysis feel instinctive to me. I also have a knack for generating creative and innovative ideas to some extent, thanks to my ability to approach problems from various angles and identify overlooked patterns and opportunities.
+However, I often struggle to envision grand, visionary concepts, often constrained by practical considerations. Also being a non-verbal thinker, expressing my ideas orally proves challenging, leading to lower scores in social and collaborative settings. 
+
+Nonetheless, I am mindful of short-comings and actively seek out opportunities to overcome them. I firmly believe that thinking styles are not static, but can be cultivated and enhanced over time through conscious effort. More importantly, the challenge lies not in developing these thinking styles, but in recognizing when to leverage each thinking style based on the specific circumstances at hand.
+
+::: footer
+:::
 
 ## ➒ SELF-REFLECTION WORKSHEET
 
-::: {.point-five-em}
-| Statement | Rating | Comment | 
-|:-------|:-----|---------|
-|I am a creative person | ☆☆☆☆☆☆☆☆☆☆ |
-|I have access to a ‘space-time oasis’| ☆☆☆☆☆☆☆☆☆☆ |
-|I regularly spend time in my ‘space-time oasis’| ☆☆☆☆☆☆☆☆☆☆ |
-|Most people would think of me as being open-minded| ☆☆☆☆☆☆☆☆☆☆ |
-|I know how to ‘play’| ☆☆☆☆☆☆☆☆☆☆ |
-|I am a humorous person| ☆☆☆☆☆☆☆☆☆☆ |
-|I often operate in Open Mode| ☆☆☆☆☆☆☆☆☆☆|
-|I am experienced in the 4-step design thinking process| ☆☆☆☆☆☆☆☆☆☆|
-|I know my dominant thinking style| ☆☆☆☆☆☆☆☆☆☆|
-|I have no problem in changing perspectives when called for| ☆☆☆☆☆☆☆☆☆☆|
+::: {.point-six-em}
+| Statement | Rating | 
+|:-------|:-----|
+|I am a creative person | ☆☆☆☆☆☆ |
+|I have access to a ‘space-time oasis’| ☆☆☆☆☆ |
+|I regularly spend time in my ‘space-time oasis’| ☆☆☆☆☆ |
+|Most people would think of me as being open-minded| ☆☆☆☆☆☆☆ |
+|I know how to ‘play’| ☆☆☆☆☆☆☆ |
+|I am a humorous person| ☆☆☆☆☆☆ |
+|I often operate in Open Mode| ☆☆☆☆☆☆|
+|I am experienced in the 4-step design thinking process| ☆☆☆|
+|I know my dominant thinking style| ☆☆☆☆☆☆|
+|I have no problem in changing perspectives when called for| ☆☆☆☆☆☆|
 
-: {tbl-colwidths="[50,25,25]"}
+: {tbl-colwidths="[65,30,5]"}
 ::: 
+
+::: footer
+:::
 
 ## ➒ SELF-REFLECTION WORKSHEET
 
-::: {.point-five-em}
-| Statement | Rating | Comment | 
-|:-------|:-----|---------|
-| I have a good imagination | ☆☆☆☆☆☆☆☆☆☆ |
-|I am good at critical thinking| ☆☆☆☆☆☆☆☆☆☆ |
-| I am highly motivated at what I do| ☆☆☆☆☆☆☆☆☆☆ |
-|I have a passion for what I do| ☆☆☆☆☆☆☆☆☆☆ |
-| I often use tools to help me solve problems| ☆☆☆☆☆☆☆☆☆☆ |
-|I have a good set of creativity tools in my toolbox| ☆☆☆☆☆☆☆☆☆☆ |
-|I don’t have major creativity blocks/barriers| ☆☆☆☆☆☆☆☆☆☆|
-|I am good at lateral thinking| ☆☆☆☆☆☆☆☆☆☆|
-|I have ‘creativity playmates’ whom I can trust| ☆☆☆☆☆☆☆☆☆☆|
-|I have many good ideas but I never implement them| ☆☆☆☆☆☆☆☆☆☆|
+::: {.point-six-em}
+| Statement | Rating|
+|:-------|:-----|
+| I have a good imagination | ☆☆☆☆☆☆ |
+|I am good at critical thinking| ☆☆☆☆☆☆☆ |
+| I am highly motivated at what I do| ☆☆☆☆☆☆ |
+|I have a passion for what I do| ☆☆☆☆☆☆ |
+| I often use tools to help me solve problems| ☆☆☆☆☆☆☆☆ |
+|I have a good set of creativity tools in my toolbox| ☆☆☆☆☆☆ |
+|I don’t have major creativity blocks/barriers| ☆☆☆☆☆☆☆|
+|I am good at lateral thinking| ☆☆☆☆☆☆|
+|I have ‘creativity playmates’ whom I can trust| ☆☆☆|
+|I have many good ideas but I never implement them| ☆☆☆☆☆☆☆☆☆|
 
-: {tbl-colwidths="[50,25,25]"}
+: {tbl-colwidths="[65,30,5]"}
 ::: 
 
-
+::: footer
+:::
 ## ➓ NEW INSIGHTS
+
+::: footer
+:::
