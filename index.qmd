@@ -28,7 +28,11 @@ filters:
 :::: {.columns }
 
 ::: {.column width="40%"}
-![](images/g2.png)
+![](images/g2.png){height=300px}
+<audio controls>
+  <source src="audio/poem.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 :::
 
 ::: {.point-seven-em .column width="60%"}
@@ -40,16 +44,19 @@ filters:
 | Stay true to your goal, oh steadfast ship,
 | Else, lost you'll be, in fate's ruthless grip.
 | Fear not to err, oh brave bold ship,
-| For without courage, your’ll remains adrift. 
+| For without courage, your’ll remain adrift. 
 |
 | Steer by your moral compass, oh wise ship,
 | Without ethics, you'll veer off and sink.
 | With these in mind, let creativity set asail,
 | In the end, triumph shall be your tale.
 :::
+
+::::
+
+
 ::: footer
 :::
-::::
 
 ## ➌ CREATIVITY & PAST EXAMPLES
 
@@ -61,7 +68,10 @@ filters:
 
 ## ➍ CREATIVITY & EDUCATION
 
-#### Creativity is "the process of having original ideas that have value".
+
+::: {.point-nine-em}
+Creativity is "the process of having original ideas that have value".
+:::
 
 :::: {.columns }
 
@@ -162,21 +172,21 @@ Creativity is not a talent, but rather "a way of operating".
 
 ## ➏ CONNECTING THE DOTS {.smaller}
 
-As a business student who recently took up cooking to save money, I found interesting parallels between cooking and starting a business.
+I recently took up cooking to save money and found interesting parallels between cooking and startups.
 
 :::: {.columns }
 
 ::: {.column width="50%" .point-nine-em}
 
-* Both processes require proper preparation - gathering all the necessary ingredients for cooking, just like assembling the right team, funding, and resources for a startup. 
+* Both require proper preparation - gathering all the necessary ingredients for cooking, just like assembling the right team, funding, and resources for a startup. 
 
-* Maintaining balance is key in both cases. Cooking needs the right measurements, while a business must balance the interests of different stakeholders — customers, employees and shareholders. Any imbalance can lead to unfavorable outcomes.
+* Maintaining balance is key in both cases. Cooking needs the right measurements, while a business must balance the interests of different stakeholders — customers, employees and shareholders. 
 ::: 
 
 ::: {.column width="50%" .point-nine-em}
 * Timing is crucial —  knowing when to add ingredients while cooking mirrors the timing of product launches, scaling efforts, and fundraising rounds in a business. 
 
-* Lastly, although one may follow a specific recipe or business framework, adjustments are often necessary to adapt to the available ingredients or guest preferences in cooking, much like entrepreneurs must adapt to evolving market conditions and competitive landscapes in business.
+* You often need to adapt to the available ingredients in cooking, much like entrepreneurs must adapt to evolving market conditions and competitive landscapes in business.
 
 :::
 
@@ -221,14 +231,24 @@ Reflecting on this thought experiment:
 ::: footer
 :::
 
-## ➑ THINKING STYLES {.point-nine-em}
+## ➑ THINKING STYLES {.smaller}
 
+* My thinking style is dominantly analytical and methodical reasoning, likely influenced by my engineering background.  Structured problem-solving and systematic analysis feel instinctive to me. 
 
+* I also have a knack for generating creative and innovative ideas to some extent, thanks to my ability to approach problems from various angles and identify overlooked patterns and opportunities.
 
-Based on assessments and personal reflection, I've discovered that my thinking style is dominantly analytical and methodical reasoning, likely influenced by my engineering background.  Structured problem-solving and systematic analysis feel instinctive to me. I also have a knack for generating creative and innovative ideas to some extent, thanks to my ability to approach problems from various angles and identify overlooked patterns and opportunities.
-However, I often struggle to envision grand, visionary concepts, often constrained by practical considerations. Also being a non-verbal thinker, expressing my ideas orally proves challenging, leading to lower scores in social and collaborative settings. 
+* However, I often struggle to envision grand, visionary concepts, often constrained by practical considerations. Also being a non-verbal thinker, expressing my ideas orally proves challenging, leading to lower scores in social and collaborative settings. 
 
-Nonetheless, I am mindful of short-comings and actively seek out opportunities to overcome them. I firmly believe that thinking styles are not static, but can be cultivated and enhanced over time through conscious effort. More importantly, the challenge lies not in developing these thinking styles, but in recognizing when to leverage each thinking style based on the specific circumstances at hand.
+::: footer
+:::
+
+## ➑ THINKING STYLES 
+
+* Nonetheless, I am mindful of short-comings and actively seek out opportunities to overcome them. 
+
+* I firmly believe that thinking styles are not static, but can be cultivated and enhanced over time through conscious effort. 
+
+* More importantly, the challenge lies not in developing these thinking styles, but in recognizing when to leverage each thinking style based on the specific circumstances at hand.
 
 ::: footer
 :::
@@ -238,16 +258,16 @@ Nonetheless, I am mindful of short-comings and actively seek out opportunities t
 ::: {.point-six-em}
 | Statement | Rating | 
 |:-------|:-----|
-|I am a creative person | ☆☆☆☆☆☆ |
-|I have access to a ‘space-time oasis’| ☆☆☆☆☆ |
-|I regularly spend time in my ‘space-time oasis’| ☆☆☆☆☆ |
-|Most people would think of me as being open-minded| ☆☆☆☆☆☆☆ |
-|I know how to ‘play’| ☆☆☆☆☆☆☆ |
-|I am a humorous person| ☆☆☆☆☆☆ |
-|I often operate in Open Mode| ☆☆☆☆☆☆|
-|I am experienced in the 4-step design thinking process| ☆☆☆|
-|I know my dominant thinking style| ☆☆☆☆☆☆|
-|I have no problem in changing perspectives when called for| ☆☆☆☆☆☆|
+|I am a creative person | ★★★★★★ |
+|I have access to a ‘space-time oasis’| ★★★★★ |
+|I regularly spend time in my ‘space-time oasis’| ★★★★★ |
+|Most people would think of me as being open-minded| ★★★★★★★ |
+|I know how to ‘play’| ★★★★★★★ |
+|I am a humorous person| ★★★★★★ |
+|I often operate in Open Mode| ★★★★★★|
+|I am experienced in the 4-step design thinking process| ★★★|
+|I know my dominant thinking style| ★★★★★★|
+|I have no problem in changing perspectives when called for| ★★★★★★|
 
 : {tbl-colwidths="[65,30,5]"}
 ::: 
@@ -260,23 +280,43 @@ Nonetheless, I am mindful of short-comings and actively seek out opportunities t
 ::: {.point-six-em}
 | Statement | Rating|
 |:-------|:-----|
-| I have a good imagination | ☆☆☆☆☆☆ |
-|I am good at critical thinking| ☆☆☆☆☆☆☆ |
-| I am highly motivated at what I do| ☆☆☆☆☆☆ |
-|I have a passion for what I do| ☆☆☆☆☆☆ |
-| I often use tools to help me solve problems| ☆☆☆☆☆☆☆☆ |
-|I have a good set of creativity tools in my toolbox| ☆☆☆☆☆☆ |
-|I don’t have major creativity blocks/barriers| ☆☆☆☆☆☆☆|
-|I am good at lateral thinking| ☆☆☆☆☆☆|
-|I have ‘creativity playmates’ whom I can trust| ☆☆☆|
-|I have many good ideas but I never implement them| ☆☆☆☆☆☆☆☆☆|
+| I have a good imagination | ★★★★★★ |
+|I am good at critical thinking| ★★★★★★★ |
+| I am highly motivated at what I do| ★★★★★ |
+|I have a passion for what I do| ★★★★★★ |
+| I often use tools to help me solve problems| ★★★★★★★ |
+|I have a good set of creativity tools in my toolbox| ★★★★★★ |
+|I don’t have major creativity blocks/barriers| ★★★★★|
+|I am good at lateral thinking| ★★★★★★|
+|I have ‘creativity playmates’ whom I can trust| ★★★|
+|I have many good ideas but I never implement them| ★★★★★★★★★|
 
 : {tbl-colwidths="[65,30,5]"}
 ::: 
 
 ::: footer
 :::
-## ➓ NEW INSIGHTS
+## ➓ NEW INSIGHTS {.smaller}
+
+* One insight is that creativity isn't just black-and-white thinking. It's not as simple as being either creative or not. Instead, it's about being able to switch between different ways of thinking, depending on the situation.
+
+* Sometimes, You might need to explore many possibilities (`divergent`), or approach a problem from a new angle (`lateral`). Eventually, you'll need to bring your ideas together (`converge`) to execute.
+
+* My main challenge isn't coming up with creative ideas, but turning those ideas into real innovations. This is due to risk-averse nature and laid-back attitude.
+
+::: footer
+:::
+
+## Endnotes
+
+* The slides are prepared with [Quarto](https://quarto.org/) publishing system. 
+
+* All the images used in this slides are generated by AI image generation tools such as [Google Gemini](https://gemini.google.com/app). 
+
+* The audio playback for the poem was done using [Microsoft Edge TTS](https://github.com/rany2/edge-tts) service.
+
+* Thank you for making it to the end of the slides!
+
 
 ::: footer
 :::
