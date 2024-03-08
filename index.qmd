@@ -27,7 +27,7 @@ filters:
 
 :::: {.columns }
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 ![](images/g2.png){height=300px}
 <audio controls>
   <source src="audio/poem.mp3" type="audio/mpeg">
@@ -35,7 +35,8 @@ Your browser does not support the audio element.
 </audio>
 :::
 
-::: {.point-seven-em .column width="60%"}
+::: {.point-seven-em .column width="65%"}
+
 | From the shore of comfort, let creativity set asail,
 | Towards the distant shore, where innovations unveil.
 | Chart the surroundings, oh wandering ship,
@@ -50,6 +51,7 @@ Your browser does not support the audio element.
 | Without ethics, you'll veer off and sink.
 | With these in mind, let creativity set asail,
 | In the end, triumph shall be your tale.
+
 :::
 
 ::::
@@ -58,10 +60,44 @@ Your browser does not support the audio element.
 ::: footer
 :::
 
-## ➌ CREATIVITY & PAST EXAMPLES
+## ➌ CREATIVITY & PAST EXAMPLE {.smaller}
 
-- Get in bed
-- Count sheep
+:::: {.columns .point-eight-em}
+
+While working at a major ISP in Myanmar, during covid, our home-visit physical bill collection halted due to government social distancing restrictions. We came up with an innovative solution: implementing digital bill collection through agents.
+
+::: {.column width="100%" .point-seven-em}
+* `Domain-relevant Skills`: The team possessed strong digital and tech skills crucial for this task.
+* `Creativity-relevant Processes`: Creating an independent task force and using agile development methodologies accelerated our innovative solution.
+* `Task Motivation`: The urgency of the situation, with the business at risk without a solution, provided strong motivation.
+* `Social Environment`: The supportive work environment, including backing from executives and cross-teams, fostered creativity and collaboration.
+::: 
+
+This success story highlighted on how domain-relevant skills, creativity-relevant processes, task motivation, and a supportive social environment combined to enable innovative problem-solving under challenging circumstances. 
+
+::::
+
+::: footer
+:::
+
+## ➌ CREATIVITY & PAST EXAMPLE {.smaller}
+
+:::: {.columns .point-eight-em}
+
+At the same company, the CEO initiated a stregic effort strategic effort to reduce operational expenses during Covid economic downturn. However, this endeavor yielded poor results due to several factors:
+
+::: {.column width="100%" .point-seven-em}
+
+* `Task motivation`: Employees lacked motivation, as there was no incentive structure aligned with cost-cutting goals.
+* `Domain-relevant Skills`: While the team possessed strong financial acumen, they lacked familiarity with the operations they were attempting to improve, hindering implementation.
+* `Creativity-relevant Processes`: Rather than employing innovative approaches to reduce waste, the team focused on implementing typical frugal measures or cost controls.
+* `Social Environment`: Despite encourangement from upper management, the majority of employees did not appreciate the efforts, leading to demoralization of the team and eventual failure of the initiative.
+
+::: 
+ 
+This story demonstrates how the lack of creative components can impede innovative problem-solving efforts, highlighting the significance of each component in Amabile's componential theory of creativity.
+
+::::
 
 ::: footer
 :::
@@ -128,12 +164,18 @@ Creativity is not a talent, but rather "a way of operating".
 
 ::: {.column width="50%" .point-nine-em}
 
-* Open mode is a more relaxed and expansive mode. We are more contemplative and curious in this mode. 
-* It is the mode that allows creativity to flourish.
+* `Open mode` is a more relaxed & receptive state of mind. 
+* Encourange exploration and allows creativity to flourish.
+* Fosters an atmosphere of curiosity and playfulness.
+* Emphasizes divergent thinking, generating many ideas.
+
+
 ::: 
 
 ::: {.column width="50%" .point-nine-em}
-* Closed mode is the mode we are in most of the time. It is an active and purposeful mode where we are focused on getting things done.
+* `Closed mode` is the mode we are in most of the time.
+* Focus solutions and getting things done.
+* Requires attention to detail and problem-solving.
 * It can be stressful and anxious and there is not much room for humor or play.
 
 :::
@@ -178,15 +220,15 @@ I recently took up cooking to save money and found interesting parallels between
 
 ::: {.column width="50%" .point-nine-em}
 
-* Both require proper preparation - gathering all the necessary ingredients for cooking, just like assembling the right team, funding, and resources for a startup. 
+* Both require proper `preparation` - gathering all the necessary ingredients for cooking, just like assembling the right team, funding, and resources for a startup. 
 
-* Maintaining balance is key in both cases. Cooking needs the right measurements, while a business must balance the interests of different stakeholders — customers, employees and shareholders. 
+* Maintaining `balance` is key in both cases. Cooking needs the right measurements, while a business must balance the interests of different stakeholders — customers, employees and shareholders. 
 ::: 
 
 ::: {.column width="50%" .point-nine-em}
-* Timing is crucial —  knowing when to add ingredients while cooking mirrors the timing of product launches, scaling efforts, and fundraising rounds in a business. 
+* `Timing` is crucial —  knowing when to add ingredients while cooking mirrors the timing of product launches, scaling efforts, and fundraising rounds in a business. 
 
-* You often need to adapt to the available ingredients in cooking, much like entrepreneurs must adapt to evolving market conditions and competitive landscapes in business.
+* You often need to `adapt` to the available ingredients in cooking, much like entrepreneurs must adapt to evolving market conditions and competitive landscapes in business.
 
 :::
 
@@ -255,19 +297,19 @@ Reflecting on this thought experiment:
 
 ## ➒ SELF-REFLECTION WORKSHEET
 
-::: {.point-six-em}
-| Statement | Rating | 
+::: {.point-seven-em}
+| Statement | Rating [1-10]| 
 |:-------|:-----|
 |I am a creative person | ★★★★★★ |
-|I have access to a ‘space-time oasis’| ★★★★★ |
+|I have access to a ‘space-time oasis’| ★★★★ |
 |I regularly spend time in my ‘space-time oasis’| ★★★★★ |
 |Most people would think of me as being open-minded| ★★★★★★★ |
-|I know how to ‘play’| ★★★★★★★ |
-|I am a humorous person| ★★★★★★ |
-|I often operate in Open Mode| ★★★★★★|
+|I know how to ‘play’| ★★★★★★ |
+|I am a humorous person| ★★★★★ |
+|I often operate in Open Mode| ★★★★|
 |I am experienced in the 4-step design thinking process| ★★★|
-|I know my dominant thinking style| ★★★★★★|
-|I have no problem in changing perspectives when called for| ★★★★★★|
+|I know my dominant thinking style| ★★★★★|
+|I have no problem in changing perspectives | ★★★★★|
 
 : {tbl-colwidths="[65,30,5]"}
 ::: 
@@ -277,8 +319,8 @@ Reflecting on this thought experiment:
 
 ## ➒ SELF-REFLECTION WORKSHEET
 
-::: {.point-six-em}
-| Statement | Rating|
+::: {.point-seven-em}
+| Statement | Rating [1-10]|
 |:-------|:-----|
 | I have a good imagination | ★★★★★★ |
 |I am good at critical thinking| ★★★★★★★ |
@@ -298,22 +340,24 @@ Reflecting on this thought experiment:
 :::
 ## ➓ NEW INSIGHTS {.smaller}
 
-* One insight is that creativity isn't just black-and-white thinking. It's not as simple as being either creative or not. Instead, it's about being able to switch between different ways of thinking, depending on the situation.
+* Although creativity is a desired trait, you should able to switch between different ways of thinking, depending on the situation or task.
 
 * Sometimes, You might need to explore many possibilities (`divergent`), or approach a problem from a new angle (`lateral`). Eventually, you'll need to bring your ideas together (`converge`) to execute.
 
-* My main challenge isn't coming up with creative ideas, but turning those ideas into real innovations. This is due to risk-averse nature and laid-back attitude.
+* My main challenge isn't coming up with creative ideas, but turning those ideas into real innovations. This is due to risk-averse nature and laid-back attitude. I aslo need to improve my tolerance for ambiguity.
 
 ::: footer
 :::
 
-## Endnotes
+## ENDNOTES
 
 * The slides are prepared with [Quarto](https://quarto.org/) publishing system. 
 
 * All the images used in this slides are generated by AI image generation tools such as [Google Gemini](https://gemini.google.com/app). 
 
 * The audio playback for the poem was done using [Microsoft Edge TTS](https://github.com/rany2/edge-tts) service.
+
+* [ChatGPT](https://chat.openai.com/) was used as a creative companion during the prepartion of the slides.
 
 * Thank you for making it to the end of the slides!
 
