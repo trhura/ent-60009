@@ -32,9 +32,11 @@ filters:
 ::: {.point-seven-em}
 <b>Finding Happiness in Everyday Moments</b>
 
+::: {.point-nine-em}
 As a child, I loved reading biographies. They whisked me away from my mundane life into the fascinating worlds of others. Back then, I thought biographies were only about highly accomplished and famous people. But as I grew older, I realized that biographies are more about glimpsed through someone else's life and gaining wisdom from their experiences.
 
-In this biography, you'll follow the story of an ordinary man who once chased greatness but eventually discovered that you don't need grand achievements to live a happy and fulfilling life. And that true happiness often lies in the simplest of things. Through his setbacks and triumphs, you will witness the beauty of embracing one's limitations and living simple, contented life. Ultimately, you'll come to understand it is not the destination that makes life fulling, but the journey itself. 
+In this biography, you’ll follow the story of an ordinary man who once grappled with ambition and the quiet pressure to be extraordinary.  I chased dreams of greatness, but eventually discovered that you don’t need grand achievements to live a surprisingly rich and happy life. And that true happiness often lies in the simplest of things.  Through setbacks and triumphs, you'll discover the beauty of embracing limitations and finding joy in the everyday. Ultimately, you’ll learn that it's not the destination that makes life fulfilling, but the journey itself—and how to find joy along the way.
+:::
 :::
 :::
 ::::
@@ -47,7 +49,7 @@ In this biography, you'll follow the story of an ordinary man who once chased gr
 :::: {.columns }
 
 ::: {.column width="35%"}
-![](images/g2.png){height=300px}
+![](images/g2.png){height=320px}
 <audio controls>
   <source src="audio/poem.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
@@ -56,10 +58,10 @@ Your browser does not support the audio element.
 
 ::: {.point-seven-em .column width="65%"}
 
-| From the shore of comfort, let creativity set asail,
-| Towards the distant shore, where innovations unveil.
-| Chart the surroundings, oh wandering ship,
-| Without the guiding map, you'll stray and slip.
+| From the shore of routine, let creativity set asail,
+| Towards the distant shore, where innovations prevail.
+| Chart the surrounding, oh wandering ship,
+| Without the context map, you'll stray and slip.
 |
 | Stay true to your goal, oh steadfast ship,
 | Else, lost you'll be, in fate's ruthless grip.
@@ -85,8 +87,8 @@ Your browser does not support the audio element.
 
 While working at a major ISP in Myanmar, during covid, our home-visit physical bill collection halted due to government social distancing restrictions. We came up with an innovative solution: implementing digital bill collection through agents.
 
-::: {.column width="100%" .point-seven-em}
-* `Domain-relevant Skills`: The team possessed strong digital and tech skills crucial for this task.
+::: {.column width="100%" .point-eight-em}
+* `Domain-relevant Skills`: The team possessed strong digital and technical skills crucial for this task.
 * `Creativity-relevant Processes`: Creating an independent task force and using agile development methodologies accelerated our innovative solution.
 * `Task Motivation`: The urgency of the situation, with the business at risk without a solution, provided strong motivation.
 * `Social Environment`: The supportive work environment, including backing from executives and cross-teams, fostered creativity and collaboration.
@@ -103,18 +105,18 @@ This success story highlighted on how domain-relevant skills, creativity-relevan
 
 :::: {.columns .point-eight-em}
 
-At the same company, the CEO initiated a stregic effort strategic effort to reduce operational expenses during Covid economic downturn. However, this endeavor yielded poor results due to several factors:
+At the same company, the CEO initiated a strategic effort to reduce operational expenses during Covid economic downturn. However, this endeavor yielded poor results due to several factors:
 
 ::: {.column width="100%" .point-seven-em}
 
 * `Task motivation`: Employees lacked motivation, as there was no incentive structure aligned with cost-cutting goals.
 * `Domain-relevant Skills`: While the team possessed strong financial acumen, they lacked familiarity with the operations they were attempting to improve, hindering implementation.
-* `Creativity-relevant Processes`: Rather than employing innovative approaches to reduce waste, the team focused on implementing typical frugal measures or cost controls.
+* `Creativity-relevant Processes`: Rather than employing innovative approaches to reduce waste, the team focused on implementing typical frugality measures or cost controls.
 * `Social Environment`: Despite encourangement from upper management, the majority of employees did not appreciate the efforts, leading to demoralization of the team and eventual failure of the initiative.
 
 ::: 
  
-This story demonstrates how the lack of creative components can impede innovative problem-solving efforts, highlighting the significance of each component in Amabile's componential theory of creativity.
+This story demonstrates how the lack of any creative components can impede innovative problem-solving efforts, highlighting the significance of each component in Amabile's componential theory of creativity.
 
 ::::
 
